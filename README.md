@@ -3,3 +3,10 @@
 mi legajo es 172397-2
 <p>Vivo en CABA, tengo 25 años, actualmente estoy trabajando en un Call Center.</p>
 <p>Estoy recursando esta materia.</p>
+
+
+## Hobbys:
+<ul>
+<li>Bordar</li>
+<li>leer manga, sigo buscando una pagina como la de tmo</li>
+<li>me gustaria aprender diferentes idiomas, como italiano y lenguaje de señas</li>
